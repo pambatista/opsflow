@@ -16,11 +16,11 @@ Empresas de varejo recebem muitos pedidos e precisam acompanhar o ciclo operacio
 
 ## Usuários
 
-| Perfil | Responsabilidades |
-|---|---|
+| Perfil                    | Responsabilidades                                                              |
+| ------------------------- | ------------------------------------------------------------------------------ |
 | **Analista de Operações** | Acompanha pedidos, devoluções, atrasos e exceções; executa ações operacionais. |
-| **Supervisor / Gestor** | Acompanha indicadores, volume de pedidos, gargalos e performance operacional. |
-| **Administrador** | Gerencia usuários, perfis e permissões. |
+| **Supervisor / Gestor**   | Acompanha indicadores, volume de pedidos, gargalos e performance operacional.  |
+| **Administrador**         | Gerencia usuários, perfis e permissões.                                        |
 
 ## Fluxo principal
 
@@ -80,7 +80,3 @@ K --> L["Reembolso"]
 - [ ] Testes automatizados
 - [ ] Docker e ambiente reproduzível
 - [ ] CI/CD
-
-## Licença
-
-Projeto de portfólio — sem licença comercial definida.
